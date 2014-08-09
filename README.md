@@ -1,3 +1,12 @@
+## Updates
+
+Updated to the original fork, this folder contains submission of 4 plots for the assignment. All plots are provided in 480x480 pixels and in png file format.
+
+The R script files are named "plot1.R", "plot2.R", "plot3.R" and "plot4.R", corresponding to their respective plot files.
+
+"plot1.R" will download the dataset for plotting, in addition to reading in the data from your working directory and producing the plots. The rest of the R script files will contain code for reading in the necessary data, in addition to producing the plots.
+
+
 ## Introduction
 
 This assignment uses data from
